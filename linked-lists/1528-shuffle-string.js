@@ -20,3 +20,5 @@ var restoreString = function(s, indices) {
 
     return result.join('');
 };
+
+console.log(restoreString("code", [3, 1, 2, 0]));
