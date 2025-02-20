@@ -9,7 +9,7 @@ Custom Judge:
 
 The inputs to the judge are given as follows (your program is not given these inputs):
 
-intersectVal - The value of the node where the intersection occurs. This is 0 if there is no intersected node.
+intersectVal - The value of the node where intersection occurs. This is 0 if there is no intersected node.
 listA - The first linked list.
 listB - The second linked list.
 skipA - The number of nodes to skip ahead in listA (starting from the head) to get to the intersected node.
