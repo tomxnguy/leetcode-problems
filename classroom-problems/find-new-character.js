@@ -1,5 +1,7 @@
 write a function in which we try to see if there are repeating letters in in a String.
 
+"study null coalescing operators"
+
 function findNewChar(string){
   const letterMap = new Map();
   for (let i = 0; i < string.length; i++){
